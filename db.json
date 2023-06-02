@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "eventName": "Test Event #1",
+      "startDate": "2023-06-01",
+      "endDate": "2023-06-02",
+      "id": 1
+    },
+    {
+      "eventName": "Test Event #2",
+      "startDate": "2023-06-04",
+      "endDate": "2023-06-05",
+      "id": 2
+    },
+    {
+      "eventName": "Test Event #3",
+      "startDate": "2023-06-11",
+      "endDate": "2023-06-25",
+      "id": 3
+    }
+  ]
+}
